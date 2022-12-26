@@ -1,5 +1,4 @@
-# module_15_challenge
+# Amazon Lex Roboadvisor Lambda function
 
-Lambda function is in the Lambda folder.  
-recording of the intital bot configuration is: first result.mov  
-recording of the bot interaction with completed lambda function is: final_result.mov  
+Lambda function in Lambda folder.
+JSON files in test events folder
